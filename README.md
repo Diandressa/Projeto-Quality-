@@ -16,3 +16,4 @@ Projeto feito para um cliente real.
 
 ## Instrução de uso 🖰
   Clique em index.html após clonar o projeto para visualizar a página
+  ou acesse [Projeto Quality](https://diandressa.github.io/Projeto-Quality-/)
